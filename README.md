@@ -194,7 +194,7 @@ Standalone installation gives you the slash commands, the skills, and direct `Ag
 
 ## corpflow Integration
 
-This plugin runs standalone. It also participates in [corpflow](https://github.com/IGRSoft/corpflow)
+This plugin runs standalone. It also participates in [corpflow](https://github.com/Agnidia/corpflow)
 worktasks, and the whole of that integration lives in one file at the repository root:
 **[CORPFLOW.md](CORPFLOW.md)**. Delete that file and the plugin is fully standalone; restore it
 and it participates again. Nothing else here references corpflow.
